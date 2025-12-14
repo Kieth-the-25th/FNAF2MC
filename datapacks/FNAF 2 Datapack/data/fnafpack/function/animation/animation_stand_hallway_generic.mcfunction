@@ -1,0 +1,1 @@
+$execute at @e[tag=death_room_anchor] run teleport @e[tag=$(animatronic),limit=1] ^ ^-1 ^-4

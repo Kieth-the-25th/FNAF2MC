@@ -1,0 +1,1 @@
+$execute as @e[tag=mangle] run teleport @s mangle_pose_$(pose_number)

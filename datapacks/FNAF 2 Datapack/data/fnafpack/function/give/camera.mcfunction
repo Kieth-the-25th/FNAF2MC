@@ -1,0 +1,1 @@
+give @s minecraft:player_head[minecraft:profile={texture: "fnafpack:entity/camera"}]

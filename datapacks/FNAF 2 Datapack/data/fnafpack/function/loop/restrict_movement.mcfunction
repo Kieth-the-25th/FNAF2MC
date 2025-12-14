@@ -1,0 +1,2 @@
+execute at @e[tag=spawn_room_anchor,limit=1] run execute if entity @e[tag=active_player,distance=2..] run teleport @e[tag=active_player] ~ ~0.1 ~
+execute at @e[tag=death_room_anchor,limit=1] run execute if entity @e[tag=active_player,tag=death,distance=2..] run teleport @e[tag=active_player,tag=death] ~ ~0.1 ~

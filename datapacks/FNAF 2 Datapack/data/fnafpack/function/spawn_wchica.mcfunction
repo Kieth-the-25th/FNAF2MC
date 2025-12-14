@@ -1,0 +1,2 @@
+summon mannequin ~ ~ ~ {Invulnerable:1b,Team:"animatronic",NoGravity:0b,Tags:["wchica", "animatronic"],profile:{texture:"fnafpack:entity/withered_chica"},attributes:[{id:"minecraft:scale",base:1.5d}]}
+scoreboard players set @n[tag=mangle] animatronic_ai 4

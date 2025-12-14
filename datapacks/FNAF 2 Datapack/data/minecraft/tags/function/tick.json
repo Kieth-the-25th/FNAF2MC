@@ -1,0 +1,7 @@
+{
+    "values": [
+        "fnafpack:main",
+        "fnafpack:initialize_animatronics_check",
+        "fnafpack:flash_left_check"
+    ]
+}

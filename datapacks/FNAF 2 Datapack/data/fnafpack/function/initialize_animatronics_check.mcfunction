@@ -1,0 +1,1 @@
+execute as @e[tag=initialize] run function fnafpack:initialize_animatronic with entity @s data

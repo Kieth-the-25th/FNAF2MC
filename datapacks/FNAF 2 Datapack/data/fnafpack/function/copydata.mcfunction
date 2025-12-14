@@ -1,0 +1,11 @@
+$data modify entity @n[tag=$(animatronic)] Pos set from storage fnaf:$(animatronic) $(step).Pos
+$data modify entity @n[tag=$(animatronic)] Rotation set from storage fnaf:$(animatronic) $(step).Rotation
+$data modify entity @n[tag=$(animatronic)] NoGravity set from storage fnaf:$(animatronic) $(step).NoGravity
+$data modify entity @n[tag=$(animatronic)] Tags set from storage fnaf:$(animatronic) $(step).Tags
+$data modify entity @n[tag=$(animatronic)] immovable set from storage fnaf:$(animatronic) $(step).immovable
+$data modify entity @n[tag=$(animatronic)] FallFlying set from storage fnaf:$(animatronic) $(step).FallFlying
+$data modify entity @n[tag=$(animatronic)] Motion set from storage fnaf:$(animatronic) $(step).Motion
+$data modify entity @n[tag=$(animatronic)] pose set from storage fnaf:$(animatronic) $(step).pose
+$data modify entity @n[tag=$(animatronic)] CustomName set from storage fnaf:$(animatronic) $(step).CustomName
+$data modify entity @n[tag=$(animatronic)] OnGround set from storage fnaf:$(animatronic) $(step).OnGround
+$data modify entity @n[tag=$(animatronic)] profile set from storage fnaf:$(animatronic) $(step).profile

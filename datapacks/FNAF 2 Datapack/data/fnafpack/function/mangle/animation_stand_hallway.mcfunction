@@ -1,0 +1,1 @@
+function fnafpack:animation/animation_stand_hallway_generic {animatronic:"mangle"}

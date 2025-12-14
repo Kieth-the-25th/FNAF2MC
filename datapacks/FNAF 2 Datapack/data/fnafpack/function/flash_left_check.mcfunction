@@ -1,0 +1,1 @@
+execute as @e[type=interaction,tag=flash_left] if data entity @s interaction run function fnafpack:flash_left

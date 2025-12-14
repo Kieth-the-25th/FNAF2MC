@@ -1,0 +1,1 @@
+$function fnafpack:animation/animation_reset_generic {animatronic:$(animatronic)}
